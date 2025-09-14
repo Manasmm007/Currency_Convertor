@@ -42,7 +42,7 @@ gunicorn app:app
 
 ## Project Structure
 ```
-B/
+Currency_Convertor/
 ├── app.py              # Main Flask app
 ├── utils.py            # Utility functions (API, caching)
 ├── rates.json          # Cached exchange rates
