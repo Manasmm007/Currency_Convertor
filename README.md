@@ -20,7 +20,7 @@ A simple Flask-based web application for converting currencies using real-time e
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Manasmm007/Currency_Convertor.git
    cd Currency_Convertor
    ```
 2. **Install dependencies:**
